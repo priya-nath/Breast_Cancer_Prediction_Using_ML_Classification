@@ -1,2 +1,3 @@
 # Breast_Cancer_Prediction_Using_ML_Classification
-Breast cancer is cancer that forms in the cells of the breasts. It can be diagnosed by diagnosing the breast cells with the parameters given in the dataset and decide if it's malignant (cancerous) or benign (non-cancerous)
+As per the statistics, nearly 12-13% women worldwide are suffering from breast cancer and the rate is increasing with due course of time. The patient might even die, if not diagnosed and taken proper medications on time. The doctors are only able to detect 70-80% accurately which might cause a serious threat to the undiagnosed patients suffering from breast cancer. Using Machine Learning, it can be diagnosed with more than 95% accuracy.
+The project aims to create a Machine Learning classifier which using the given parameters from the dataset predicts whether the cell is Malignant(cancerous) or Benign(not cancerous) with more than 95% accuracy.
